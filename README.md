@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3200&pause=900&color=FF2A6D&center=true&vCenter=true&width=900&lines=Mart%C3%ADn+Sebastian+Martinez+Palacios;Software+Engineer;Desktop+%7C+Android+%7C+Automation+Developer;Building+software+that+solves+real+problems." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3200&pause=900&color=7AA2F7&center=true&vCenter=true&width=900&lines=Mart%C3%ADn+Sebastian+Martinez+Palacios;Software+Engineer;Desktop+%7C+Android+%7C+Automation+Developer;Building+software+that+solves+real+problems." />
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-martinsoftware.dev-FF2A6D?style=for-the-badge)](https://martinsoftware-dev.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-martinsoftware.dev-7AA2F7?style=for-the-badge)](https://martinsoftware-dev.vercel.app)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-05D9E8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/martinpalacios03)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-7DCFFF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/martinpalacios03)
 
-[![Followers](https://img.shields.io/github/followers/MartinSoftware?style=for-the-badge&color=A89EC9&label=Followers)](https://github.com/MartinSoftware)
+[![Followers](https://img.shields.io/github/followers/MartinSoftware?style=for-the-badge&color=BB9AF7&label=Followers)](https://github.com/MartinSoftware)
 
 </div>
 
@@ -76,7 +76,7 @@ Android application that downloads TikTok videos without watermark.
 
 <td>
 
-<img src="https://placehold.co/500x280/1A1A1A/FF2A6D?text=TikSave"/>
+<img src="https://placehold.co/500x280/1a1b26/7AA2F7?text=TikSave" alt="TikSave screenshot placeholder"/>
 
 </td>
 
@@ -86,7 +86,7 @@ Android application that downloads TikTok videos without watermark.
 
 <td>
 
-<img src="https://placehold.co/500x280/1A1A1A/05D9E8?text=Left4VTF"/>
+<img src="https://placehold.co/500x280/1a1b26/7DCFFF?text=Left4VTF" alt="Left4VTF screenshot placeholder"/>
 
 </td>
 
@@ -130,13 +130,15 @@ Educational management platform for automatic document generation.
 
 <td>
 
-<img src="https://placehold.co/500x280/1A1A1A/D3869B?text=PAVP"/>
+<img src="https://placehold.co/500x280/1a1b26/BB9AF7?text=PAVP" alt="Sistema PAVP screenshot placeholder"/>
 
 </td>
 
 </tr>
 
 </table>
+
+<sub>⚠️ Imágenes de marcador de posición — reemplaza cada <code>placehold.co</code> por una captura real de tu app antes de publicar.</sub>
 
 ---
 
@@ -154,15 +156,15 @@ Educational management platform for automatic document generation.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=MartinSoftware&show_icons=true&theme=transparent&hide_border=true&title_color=FF2A6D&icon_color=05D9E8&text_color=A9B1D6&bg_color=00000000"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=MartinSoftware&show_icons=true&theme=transparent&hide_border=true&title_color=7AA2F7&icon_color=7DCFFF&text_color=c9d1d9&bg_color=00000000"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinSoftware&layout=compact&theme=transparent&hide_border=true&title_color=FF2A6D&text_color=A9B1D6&bg_color=00000000"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinSoftware&layout=compact&theme=transparent&hide_border=true&title_color=7AA2F7&text_color=c9d1d9&bg_color=00000000"/>
 
 </div>
 
 <div align="center">
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=MartinSoftware&theme=transparent&hide_border=true&ring=05D9E8&fire=FF2A6D&currStreakLabel=FF2A6D&sideLabels=A9B1D6&dates=A9B1D6"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=MartinSoftware&theme=transparent&hide_border=true&ring=7DCFFF&fire=BB9AF7&currStreakLabel=7AA2F7&sideLabels=c9d1d9&dates=c9d1d9"/>
 
 </div>
 
@@ -209,15 +211,15 @@ Educational management platform for automatic document generation.
 <div align="center">
 
 <a href="https://martinsoftware-dev.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-FF2A6D?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Portfolio-7AA2F7?style=for-the-badge"/>
 </a>
 
 <a href="mailto:TU_CORREO">
-<img src="https://img.shields.io/badge/Email-05D9E8?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-7DCFFF?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/martinpalacios03">
-<img src="https://img.shields.io/badge/LinkedIn-A89EC9?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-BB9AF7?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </div>
@@ -241,6 +243,6 @@ martin@github:~$ status
 
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=24,30"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:7AA2F7,50:BB9AF7,100:7DCFFF"/>
 
 </div>
