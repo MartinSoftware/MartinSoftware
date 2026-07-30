@@ -1,144 +1,35 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3200&pause=900&color=7AA2F7&center=true&vCenter=true&width=900&lines=Mart%C3%ADn+Sebastian+Martinez+Palacios;Software+Engineer;Desktop+%7C+Android+%7C+Automation+Developer;Building+software+that+solves+real+problems." />
+# 👋 Building software that solves real problems.
+
+### Martín Sebastian Martinez Palacios
+
+<sub>Software Engineering Student @ UTP • Desktop • Android • Automation Developer</sub>
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-martinsoftware.dev-7AA2F7?style=for-the-badge)](https://martinsoftware-dev.vercel.app)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-7DCFFF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/martinpalacios03)
-
-[![Followers](https://img.shields.io/github/followers/MartinSoftware?style=for-the-badge&color=BB9AF7&label=Followers)](https://github.com/MartinSoftware)
+[![Portfolio](https://img.shields.io/badge/Portfolio-martinsoftware.dev-7AA2F7?style=flat-square)](https://martinsoftware-dev.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-BB9AF7?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/martinpalacios03/)
+[![Email](https://img.shields.io/badge/Email-7DCFFF?style=flat-square&logo=gmail&logoColor=1a1b26)](mailto:martinpalaciosdeveloper@hotmail.com)
 
 </div>
 
 ---
 
-# 👋 About Me
+```bash
+martin@github:~$ neofetch
 
-```kotlin
-object Martin {
-
-    const val Motto =
-        "Building software that solves real problems."
-
-    val Languages = listOf(
-        "Kotlin",
-        "Python",
-        "TypeScript"
-    )
-
-    val Interests = listOf(
-        "Android",
-        "Desktop",
-        "Automation",
-        "Education",
-        "Open Source"
-    )
-
-    val CurrentlyBuilding =
-        "martinsoftware.dev"
-
-    val LookingFor = listOf(
-        "Freelance",
-        "Internships",
-        "Junior Opportunities"
-    )
-
-}
+OS            :: Peru (Lima)
+Role          :: Software Engineering Student @ UTP
+Focus         :: Desktop • Android • Automation
+Languages     :: Kotlin • Python • TypeScript
+Frameworks    :: Jetpack Compose • PyQt6 • FastAPI • React
+Currently     :: martinsoftware.dev
+Listening     :: Rock 🎸
+Available     :: Freelance • Junior • Internship
 ```
 
----
-
-# 🚀 Featured Projects
-
-<table>
-
-<tr>
-
-<td width="50%">
-
-## 📱 TikSave
-
-Android application that downloads TikTok videos without watermark.
-
-**Stack**
-
-`Kotlin`
-
-`Jetpack Compose`
-
-`Room`
-
-`Material 3`
-
-</td>
-
-<td>
-
-<img src="https://placehold.co/500x280/1a1b26/7AA2F7?text=TikSave" alt="TikSave screenshot placeholder"/>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-<img src="https://placehold.co/500x280/1a1b26/7DCFFF?text=Left4VTF" alt="Left4VTF screenshot placeholder"/>
-
-</td>
-
-<td width="50%">
-
-## 🎮 Left4VTF
-
-Desktop application that converts local images or URLs into custom VTF sprays for Left 4 Dead 2.
-
-**Stack**
-
-`Python`
-
-`PyQt6`
-
-`Source Engine`
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-## 🏫 Sistema PAVP
-
-Educational management platform for automatic document generation.
-
-**Stack**
-
-`PyQt6`
-
-`React`
-
-`Firebase`
-
-`Kotlin`
-
-</td>
-
-<td>
-
-<img src="https://placehold.co/500x280/1a1b26/BB9AF7?text=PAVP" alt="Sistema PAVP screenshot placeholder"/>
-
-</td>
-
-</tr>
-
-</table>
-
-<sub>⚠️ Imágenes de marcador de posición — reemplaza cada <code>placehold.co</code> por una captura real de tu app antes de publicar.</sub>
+> I enjoy building desktop applications, Android apps and automation tools that solve real-world problems.
 
 ---
 
@@ -152,61 +43,54 @@ Educational management platform for automatic document generation.
 
 ---
 
+# 🚀 Featured Projects
+
+| Project | Description | Stack |
+|:--|:--|:--|
+| **📱 TikSave** | Download TikTok videos without watermark using a clean Material 3 interface. | `Kotlin` `Compose` `Room` |
+| **🎮 Left4VTF** | Converts local images or URLs into custom `.vtf` sprays for Left 4 Dead 2. | `Python` `PyQt6` |
+| **🏫 Sistema PAVP** | Educational platform that automates the generation of institutional PDF documents. | `PyQt6` `React` `Firebase` |
+| **💧 AguaControl** | Water meter management with automatic billing system. | `Kotlin` `Compose` `Supabase` |
+| **🌐 Portfolio** | Personal portfolio with Astro Islands, React and smooth animations. | `Astro` `React` `Framer Motion` |
+
+---
+
+# 🛠 Currently Building
+
+- 🌐 martinsoftware.dev
+- 📱 TikSave
+- 🎮 Left4VTF
+- 🏫 Sistema PAVP
+- 🤖 AI applied to Educational Management
+
+---
+
 # 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=MartinSoftware&show_icons=true&theme=transparent&hide_border=true&title_color=7AA2F7&icon_color=7DCFFF&text_color=c9d1d9&bg_color=00000000"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=MartinSoftware&show_icons=true&theme=transparent&hide_border=true&title_color=7AA2F7&icon_color=7DCFFF&text_color=A9B1D6&bg_color=00000000"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinSoftware&layout=compact&theme=transparent&hide_border=true&title_color=7AA2F7&text_color=c9d1d9&bg_color=00000000"/>
-
-</div>
-
-<div align="center">
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=MartinSoftware&theme=transparent&hide_border=true&ring=7DCFFF&fire=BB9AF7&currStreakLabel=7AA2F7&sideLabels=c9d1d9&dates=c9d1d9"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinSoftware&layout=compact&theme=transparent&hide_border=true&title_color=7AA2F7&text_color=A9B1D6&bg_color=00000000"/>
 
 </div>
 
 ---
 
-# 💻 Outside the Code
+# 🎸 Outside the Code
 
 <div align="center">
 
-🎸 Electric Guitar
-
-🎧 Rock
-
-🎨 UI/UX Lover
-
+🎸 Electric Guitar &nbsp;&nbsp;•&nbsp;&nbsp;
+🎧 Rock &nbsp;&nbsp;•&nbsp;&nbsp;
+🎨 Tokyo Night & Gruvbox &nbsp;&nbsp;•&nbsp;&nbsp;
 ☕ Night Coding
 
-🖥️ Desktop Apps
-
-🤖 Automation
-
 </div>
 
 ---
 
-# 🛠 Currently Learning
-
-```text
-▣ Advanced Android Development
-
-▣ Backend Architecture
-
-▣ Clean Architecture
-
-▣ AI Applied to Education
-
-▣ Software Design Patterns
-```
-
----
-
-# 📫 Contact
+# 📫 Let's Connect
 
 <div align="center">
 
@@ -214,8 +98,8 @@ Educational management platform for automatic document generation.
 <img src="https://img.shields.io/badge/Portfolio-7AA2F7?style=for-the-badge"/>
 </a>
 
-<a href="mailto:TU_CORREO">
-<img src="https://img.shields.io/badge/Email-7DCFFF?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="mailto:martinpalaciosdeveloper@hotmail.com">
+<img src="https://img.shields.io/badge/Email-7DCFFF?style=for-the-badge&logo=gmail&logoColor=1a1b26"/>
 </a>
 
 <a href="https://www.linkedin.com/in/martinpalacios03">
@@ -226,23 +110,14 @@ Educational management platform for automatic document generation.
 
 ---
 
-<div align="center">
-
 ```bash
-martin@github:~$ whoami
-
-Desktop Developer
-Android Developer
-Automation Enthusiast
-
 martin@github:~$ status
 
-🟢 Available for freelance
-🟢 Open Source
-🟢 Junior Opportunities
+✔ Building useful software
 
+✔ Open to freelance projects
+
+✔ Looking for Junior opportunities
+
+✔ Always learning something new...
 ```
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:7AA2F7,50:BB9AF7,100:7DCFFF"/>
-
-</div>
