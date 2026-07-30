@@ -1,15 +1,19 @@
 <div align="center">
 
-# 👋 Building software that solves real problems.
+# < Hello, World! 👋 />
 
 ### Martín Sebastian Martinez Palacios
 
-<sub>Software Engineering Student @ UTP • Desktop • Android • Automation Developer</sub>
+<sub>Desktop • Android • Automation Developer</sub>
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-martinsoftware.dev-7AA2F7?style=flat-square)](https://martinsoftware-dev.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-BB9AF7?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/martinpalacios03/)
+> Building software that solves real-world problems.
+
+<br>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-7AA2F7?style=flat-square)](https://martinsoftware-dev.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-BB9AF7?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/martinpalacios03)
 [![Email](https://img.shields.io/badge/Email-7DCFFF?style=flat-square&logo=gmail&logoColor=1a1b26)](mailto:martinpalaciosdeveloper@hotmail.com)
 
 </div>
@@ -17,19 +21,32 @@
 ---
 
 ```bash
-martin@github:~$ neofetch
+martin@github:~$ boot
 
-OS            :: Peru (Lima)
-Role          :: Software Engineering Student @ UTP
-Focus         :: Desktop • Android • Automation
-Languages     :: Kotlin • Python • TypeScript
-Frameworks    :: Jetpack Compose • PyQt6 • FastAPI • React
-Currently     :: martinsoftware.dev
-Listening     :: Rock 🎸
-Available     :: Freelance • Junior • Internship
+✓ Loading Kotlin...
+✓ Loading Python...
+✓ Loading TypeScript...
+✓ Loading Coffee ☕...
+
+System ready.
 ```
 
-> I enjoy building desktop applications, Android apps and automation tools that solve real-world problems.
+```bash
+martin@github:~$ neofetch
+
+OS             :: Perú 🇵🇪
+Role           :: Software Engineering Student @ UTP
+Focus          :: Desktop • Android • Automation
+Languages      :: Kotlin • Python • TypeScript
+Frameworks     :: Jetpack Compose • PyQt6 • React • FastAPI
+Currently      :: Building martinsoftware.dev
+Listening      :: Rock 🎸
+Editor         :: VS Code
+Theme          :: Tokyo Night 🌃
+Status         :: Disponible para freelance
+```
+
+> I enjoy building desktop software, Android applications and automation tools that make people's lives easier.
 
 ---
 
@@ -57,40 +74,49 @@ Available     :: Freelance • Junior • Internship
 
 # 🛠 Currently Building
 
-- 🌐 martinsoftware.dev
-- 📱 TikSave
-- 🎮 Left4VTF
-- 🏫 Sistema PAVP
-- 🤖 AI applied to Educational Management
+```text
+🌐 martinsoftware.dev
+
+📱 TikSave
+
+🎮 Left4VTF
+
+🏫 Sistema PAVP
+
+🤖 AI for Educational Management
+```
 
 ---
 
 # 📊 GitHub Analytics
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=MartinSoftware&show_icons=true&theme=transparent&hide_border=true&title_color=7AA2F7&icon_color=7DCFFF&text_color=A9B1D6&bg_color=00000000"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinSoftware&layout=compact&theme=transparent&hide_border=true&title_color=7AA2F7&text_color=A9B1D6&bg_color=00000000"/>
-
+  <!-- ✅ Streak Stats (opcional) --><img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=MartinSoftware&theme=tokyonight&hide_border=true"/>
 </div>
 
 ---
 
-# 🎸 Outside the Code
+# 🎸 Fuera del código
 
 <div align="center">
 
-🎸 Electric Guitar &nbsp;&nbsp;•&nbsp;&nbsp;
-🎧 Rock &nbsp;&nbsp;•&nbsp;&nbsp;
-🎨 Tokyo Night & Gruvbox &nbsp;&nbsp;•&nbsp;&nbsp;
-☕ Night Coding
+🎸 Guitarra eléctrica
+
+🎧 Rock
+
+🌃 Tokyo Night
+
+☕ Café
+
+🎨 UI/UX
+
+🚀 Open Source
 
 </div>
 
 ---
 
-# 📫 Let's Connect
+# 🤝 Let's Connect
 
 <div align="center">
 
@@ -111,13 +137,15 @@ Available     :: Freelance • Junior • Internship
 ---
 
 ```bash
-martin@github:~$ status
+martin@github:~$ git status
+
+On branch main
 
 ✔ Building useful software
 
 ✔ Open to freelance projects
 
-✔ Looking for Junior opportunities
+✔ Looking for junior opportunities
 
-✔ Always learning something new...
+No bugs... for now 😄
 ```
